@@ -1,0 +1,1 @@
+SELECT * FROM pizza_place.stock2;
